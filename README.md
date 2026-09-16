@@ -11,8 +11,11 @@ Commands to include:
 </> Bash
 
 git clone https://github.com/dbrown359/SE-Git-hw.git
+
 cd SE-Git-hw
+
 python3 hello.py
+
 python3 apple.py
 
 Expected output should be as follows:
