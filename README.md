@@ -19,11 +19,10 @@ A terminal to run the commands.
 
 **How to Run the Programs**
 Clone the repository and enter its folder:<br>
-    git clone https://github.com/dbrown359/SE-Git-hw.git  
-    
-  cd SE-Git-hw
-Run the Hello World program:
-  python3 hello.py
+    git clone https://github.com/dbrown359/SE-Git-hw.git<br>
+    cd SE-Git-hw<br>
+Run the Hello World program:<br>
+  python3 hello.py<br>
 Expected output: Hello World!
 Run the apple program:
   python3 apple.py
