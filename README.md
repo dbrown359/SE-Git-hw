@@ -7,6 +7,9 @@ Project overview: This project was created to practice version control using Git
 Author: David Brown — dbrown359<br>
 Collaborator: James Hawkins - jwhawkins68<br>
 
+**Github Repository URL**<br>
+https://github.com/dbrown359/SE-Git-hw 
+
 **Project Files**
 hello.py: Prints the phrase Hello, World!
 apple.py: Prints the phrase I eat apple
