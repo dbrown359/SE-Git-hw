@@ -3,9 +3,9 @@ Software Engineering assignment to practice Git and GitHub
 
 Project overview: This project was created to practice version control using Git and GitHub. It covers creating a repository, committing changes, working with branches, reviewing and merging pull requests, resolving merge conflicts, and tracking tasks with issues.
 
-**Author and Collaborator**
-Author: David Brown — dbrown359
-Collaborator: James Hawkins - jwhawkins68
+**Author and Collaborator<br>**
+Author: David Brown — dbrown359<br>
+Collaborator: James Hawkins - jwhawkins68<br>
 
 **Project Files**
 hello.py: Prints the phrase Hello, World!
