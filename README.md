@@ -32,3 +32,30 @@ A terminal to run the commands.
 main: This is the primary branch for the project.
 feature-1: This is the branch used to add the apple.py file
 
+**Issues and Resolutions<br>**
+
+**Creating Additional Project Details in README #2 <br>**
+
+Issue: [https://github.com/dbrown359/SE-Git-hw/issues?q=is%3Aissue%20state%3Aclosed](https://github.com/dbrown359/SE-Git-hw/issues/2) <br>
+
+Assigned to: dbrown359<br>
+
+Task: Document the project, setup instructions, GitHub workflow, merge conflict, and issue resolutions.<br>
+
+Resolution: Updated the REQADME.md file to reflect steps for testing the files.<br>
+
+Status: Closed<br>
+
+**Test Python programs and verify README instructions<br>**
+
+Issue: [https://github.com/dbrown359/SE-Git-hw/issues/3 ](https://github.com/dbrown359/SE-Git-hw/issues/3) <br>
+
+Assigned to: jwhawkins68<br>
+
+Task: Run both programs and check the README instructions.<br>
+
+Results: <br>
+Resolution: <br>
+Evidence: <br>
+Status: Currently Open<br>
+
