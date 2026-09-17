@@ -18,7 +18,7 @@ Python3 installed on your computer.
 A terminal to run the commands.
 
 **How to Run the Programs**
-Clone the repository and enter its folder:\n
+Clone the repository and enter its folder:
     git clone https://github.com/dbrown359/SE-Git-hw.git
   cd SE-Git-hw
 Run the Hello World program:
